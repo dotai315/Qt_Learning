@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>Image/Undo.png</file>
+        <file>Image/Underline.png</file>
+        <file>Image/SaveAs.png</file>
+        <file>Image/Save.png</file>
+        <file>Image/Redo.png</file>
+        <file>Image/Paste.png</file>
+        <file>Image/Open.png</file>
+        <file>Image/New.png</file>
+        <file>Image/Italic.png</file>
+        <file>Image/Exit.png</file>
+        <file>Image/Cut.png</file>
+        <file>Image/Copy.png</file>
+        <file>Image/Bold.png</file>
+        <file>Image/About.png</file>
+        <file>Image/Font.png</file>
+    </qresource>
+</RCC>
