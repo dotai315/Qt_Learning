@@ -7,6 +7,8 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
     setWindowTitle("Label");
+    ui->label->setText("<h2>Hello <font color=red<i>World</i></font></h2> ");
+    ui->label->show();
 }
 
 MainWindow::~MainWindow()
